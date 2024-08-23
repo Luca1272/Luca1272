@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Andrei Luca Rusu, a Computer Science student at the University of Aberdeen with a focus on full-stack and software development, data analysis, and cybersecurity. Currently, I am working on projects that I find interesting and challenging.
+Hello! I'm Luca, a Computer Science student at the University of Aberdeen with a focus on full-stack and software development, data analysis, and cybersecurity. Currently, I am working on projects that I find interesting and challenging.
  
 
 ## 🌐 Socials:
