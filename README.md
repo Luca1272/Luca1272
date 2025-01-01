@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Luca, a Computer Science student at the University of Aberdeen with a focus on full-stack and software development, data analysis, and cybersecurity. Currently, I am working on projects that I find interesting and challenging.
+Hello! I'm Luca, a Computer Science and Artificial Intelligence student at the University of Technology Sydney (UTS), with a strong focus on full-stack and software development, AI/ML, and cybersecurity. I am passionate about building innovative projects that are both challenging and impactful.
  
 
 ## 🌐 Socials:
