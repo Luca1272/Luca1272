@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Luca, a Computer Science and Artificial Intelligence student at the University of Technology Sydney (UTS), with a strong focus on full-stack and software development, AI/ML, and cybersecurity. I am passionate about building innovative projects that are both challenging and impactful.
+Hello! I'm Luca, an Artificial Intelligence student at the University of Technology Sydney (UTS), I transferred after studying a Computing Science degree for 1.5 years at the University of Aberdeen. I have a strong focus on full-stack and software development, AI/ML, and cybersecurity. I am passionate about building innovative projects that are both challenging and impactful.
  
 
 ## 🌐 Socials:
