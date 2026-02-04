@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I’m **Luca**, currently pursuing a BAI in Artificial Intelligence at the University of Technology Sydney (UTS). I transferred to UTS near the end of my second year of my BSc (Hons) in Computer Science at the University of Aberdeen. My primary focus areas are full-stack software development, AI/ML, and cybersecurity. I enjoy building innovative, production-ready solutions that deliver measurable impact.
+Hello! I’m **Luca**, currently pursuing a BAI in Artificial Intelligence at the University of Technology Sydney (UTS). I transferred to UTS near the end of my second year of my BSc (Hons) in Computer Science at the University of Aberdeen. My primary focus areas are full-stack software development, and AI/ML. I enjoy building innovative, production-ready solutions that deliver measurable impact.
 
 
 ## 🌐 Socials:
